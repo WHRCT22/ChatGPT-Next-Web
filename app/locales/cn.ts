@@ -233,7 +233,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是CHAT GTP 3.5模型，部署在WHR服务器上，现在，你可以尝试问问我一个问题，请使用中文，英语等世界通用语言",
+    BotHello: "你好，我是CHAT GTP 3.5模型，![提示信息](https://picst.sunbangyan.cn/2023/08/01/sbmwou.png)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
