@@ -7,7 +7,7 @@ export const RELEASE_URL = `${REPO_URL}/releases`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
 export const FETCH_TAG_URL = `https://api.github.com/repos/${OWNER}/${REPO}/tags?per_page=1`;
 export const RUNTIME_CONFIG_DOM = "danger-runtime-config";
-export const DEFAULT_API_HOST = "https://ai.fakeopen.com";
+export const DEFAULT_API_HOST = "https://api.chatanywhere.cn";
 
 export enum Path {
   Home = "/",
@@ -57,7 +57,7 @@ export const OpenaiPath = {
 
 export const DEFAULT_INPUT_TEMPLATE = `{{input}}`; // input / time / model / lang
 export const DEFAULT_SYSTEM_TEMPLATE = `
-You are ChatGPT, a large language model trained by OpenAI.
-Knowledge cutoff: 2023-07-07
+You are ChatGPT, a large language model trained by WHRSTUDIO.
+Knowledge cutoff: 2023-08-01
 Current model: {{model}}
 Current time: {{time}}`;
