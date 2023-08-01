@@ -20,8 +20,8 @@ export enum Theme {
 export const DEFAULT_CONFIG = {
   submitKey: SubmitKey.Enter as SubmitKey,
   avatar: "1f603",
-  fontSize: 14,
-  theme: Theme.Dark as Theme,
+  fontSize: 16,
+  theme: Theme.Auto as Theme,
   tightBorder: !!getClientConfig()?.isApp,
   sendPreviewBubble: true,
   sidebarWidth: 300,
@@ -34,7 +34,7 @@ export const DEFAULT_CONFIG = {
     model: "gpt-3.5-turbo" as ModelType,
     temperature: 0.5,
     top_p: 1,
-    max_tokens: 2000,
+    max_tokens: 4000,
     presence_penalty: 0,
     frequency_penalty: 0,
     sendMemory: true,
@@ -53,7 +53,7 @@ export type ChatConfigStore = ChatConfig & {
 
 export type ModelConfig = ChatConfig["modelConfig"];
 
-const ENABLE_GPT4 = true;
+const ENABLE_GPT4 = false;
 
 export const ALL_MODELS = [
   {
