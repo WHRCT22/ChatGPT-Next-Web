@@ -233,7 +233,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是CHAT GTP 3.5模型!此网站仅提供有限查询次数，一小时多IP最多询问120次，超过请等下小时[提示信息](https://picst.sunbangyan.cn/2023/08/01/sbmwou.png)",
+    BotHello: "你好，我是CHAT GTP 3.5模型!此网站仅提供有限查询次数，一小时多IP最多询问120次，超过请等下小时吧",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
