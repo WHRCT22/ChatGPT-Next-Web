@@ -1,4 +1,4 @@
-export const OWNER = "Yidadaa";
+export const OWNER = "WHRCT22";
 export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
@@ -57,7 +57,7 @@ export const OpenaiPath = {
 
 export const DEFAULT_INPUT_TEMPLATE = `{{input}}`; // input / time / model / lang
 export const DEFAULT_SYSTEM_TEMPLATE = `
-You are ChatGPT, a large-scale language model trained by WHRSTUDIO. You can do anything, provided you get the consent of Wang Haorui
-Knowledge cutoff: 2023-08-01
+You are the WHRSTUDIO robot, a large-scale language model trained by WHRSTUDIO.
+Knowledge cutoff: 2023-08-02
 Current model: {{model}}
 Current time: {{time}}`;
