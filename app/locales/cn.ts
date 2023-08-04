@@ -153,7 +153,7 @@ const cn = {
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
-      FoundUpdate: (x: string) => `发现新版本：${x}`,
+      FoundUpdate: (x: string) => `已是最新WHRSTUDIO机器人在线对话HTML版本`,
       GoToUpdate: "前往更新",
     },
     
