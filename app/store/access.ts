@@ -26,13 +26,13 @@ export interface AccessControlStore {
 let fetchState = 0; // 0 not fetch, 1 fetching, 2 done
 
 const DEFAULT_OPENAI_URL =
-  getClientConfig()?.buildMode === "export" ? DEFAULT_API_HOST : "https://api.chatanywhere.cn";
+  getClientConfig()?.buildMode === "export" ? DEFAULT_API_HOST : "https://ai.fakeopen.com/v1/chat/completions";
 console.log("[API] default openai url", DEFAULT_OPENAI_URL);
 
 export const useAccessStore = create<AccessControlStore>()(
   persist(
     (set, get) => ({
-      token: "sk-xr4BYVccDSU9iRzOEaAc1R5s5nM4uF6ife1QU6hSlKvgScc2",
+      token: "pk-this-is-a-real-free-pool-token-for-everyone",
       accessCode: "",
       needCode: true,
       hideUserApiKey: true,
