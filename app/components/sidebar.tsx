@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Web X
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          The greatest ChatGPT.
+          The greatest ChatGPT web app.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
