@@ -76,7 +76,7 @@ const cn = {
     MessageFromChatGPT: "来自 ChatGPT 的消息",
     Format: {
       Title: "导出格式",
-      SubTitle: "可以导出 Markdown 文本或者 PNG 图片",
+      SubTitle: "可以导出 MD 文本或者 PNG 图片或者分享至ShareGPT",
     },
     IncludeContext: {
       Title: "包含面具上下文",
