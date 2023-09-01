@@ -246,7 +246,7 @@ const cn = {
     },
   },
   Copy: {
-    Success: "已成功写入剪切板",
+    Success: "右击的信息已成功写入剪切板（荀娘 喵~）",
     Failed: "复制失败，请赋予剪切板权限",
   },
   Context: {
