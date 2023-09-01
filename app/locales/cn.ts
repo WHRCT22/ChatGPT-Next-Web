@@ -4,7 +4,7 @@ const cn = {
   WIP: "QQ 3540746063",
   Error: {
     Unauthorized:
-      "在询问荀娘时时抛出了一个错误请[刷新](/#/)，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key和API接口，届时，您的KEY将不再由WHRSTUDIO提供，OpenAI将会收取费用。",
+      "在询问荀娘时时抛出了一个错误请[刷新](/#/)，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key和API接口，届时，您的KEY将不再由WHRSTUDIO免费提供，OpenAI将会收取费用。",
   },
   Auth: {
     Title: "需要密码",
@@ -17,7 +17,7 @@ const cn = {
     ChatItemCount: (count: number) => `${count} 条对话`,
   },
   Chat: {
-    SubTitle: (count: number) => `共 ${count} 条对话`,
+    SubTitle: (count: number) => `此聊天共包含 ${count} 条对话`,
     Actions: {
       ChatList: "查看消息列表",
       CompressedHistory: "查看压缩后的历史 Prompt",
@@ -59,7 +59,7 @@ const cn = {
       if (submitKey === String(SubmitKey.Enter)) {
         inputHints += "，Shift + Enter 换行";
       }
-      return inputHints + "，/ 触发补全，: 触发命令";
+      return inputHints + "，使用"/"以触发命令（功能）";
     },
     Send: "发送",
     Config: {
