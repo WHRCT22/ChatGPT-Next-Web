@@ -59,7 +59,7 @@ const cn = {
       if (submitKey === String(SubmitKey.Enter)) {
         inputHints += "，Shift + Enter 换行";
       }
-      return inputHints + "，使用"/"以触发命令（功能）";
+      return inputHints + "，使用/以触发命令（功能）";
     },
     Send: "发送",
     Config: {
