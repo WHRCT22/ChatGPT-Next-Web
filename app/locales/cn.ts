@@ -235,7 +235,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，荀娘已上线，请输入你的问题吧~",
+    BotHello: "你好，请输入你的问题，荀娘将会给出最满意的回答。",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
