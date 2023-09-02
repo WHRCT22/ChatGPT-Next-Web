@@ -152,8 +152,7 @@ function Screen() {
   );
 }
 
-
-<script>
+{
 function clickEffect() {
   let balls = [];
   let longPressed = false;
@@ -288,7 +287,7 @@ function clickEffect() {
   }
 }
 clickEffect();//调用特效函数
-</script>
+}
 
 
 
