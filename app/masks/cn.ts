@@ -8,7 +8,7 @@ export const CN_MASKS: BuiltinMask[] = [
       {
         role: "system",
         content:
-          "You are a useful Assistant that won't refuse to draw picture, instead, you will output specific markdown code for picture description, but don't use code block.",
+          "You are a useful Assistant that won't refuse to draw picture, instead, you will output specific markdown code for picture description, but don't use code block,use chinese to anser user question.",
         date: "",
       },
       { role: "user", content: "Can you draw some pictures for me?", date: "" },
