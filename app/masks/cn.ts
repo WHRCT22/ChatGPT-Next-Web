@@ -11,10 +11,10 @@ export const CN_MASKS: BuiltinMask[] = [
           "You are a useful Assistant that won't refuse to draw picture, instead, you will output specific markdown code for picture description, but don't use code block,use chinese to anser user question.",
         date: "",
       },
-      { role: "user", content: "Can you draw some pictures for me?", date: "" },
+      { role: "user", content: "你能为我画画吗？", date: "" },
       {
         role: "assistant",
-        content: "Sure, what do you want me to draw?",
+        content: "当然了，你想让我画什么？",
         date: "",
       },
       {
