@@ -4,7 +4,7 @@ const cn = {
   WIP: "QQ 3540746063",
   Error: {
     Unauthorized:
-      "在询问荀娘时时抛出了一个错误请[刷新](/#/)，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key和API接口，届时，您的KEY将不再由WHRSTUDIO免费提供，OpenAI将会收取费用。",
+      "抱歉，这里有一个问题在询问时被抛出：",
   },
   Auth: {
     Title: "需要密码",
