@@ -235,7 +235,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，请输入你的第一个问题以开始与GPT聊天",
+    BotHello: "请输入你的第一个问题开始与WHR AI Model对话",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
