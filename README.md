@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./docs/images/icon.svg" alt="icon"/>
 
 <h1 align="center">ChatGPT Web X</h1>
 
@@ -13,8 +12,6 @@ One-Click to get free access to ChatGPT GPT 3.5 to GPT 4+ models!
 
 
 [web-url]: https://chatgpt-web-x.vercel.app/
-
-![cover](./docs/images/cover.png)
 
 </div>
 
