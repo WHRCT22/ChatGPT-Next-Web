@@ -20,7 +20,7 @@
 - **一键免费部署** 不到 1 分钟即可在 Vercel 上部署你自己的网站
 - 所有模型的设置均可由用户自由定制
 - 有超过 11 种不同型号的模型可供选择：GPT-4、GPT-4-0314、GPT-4-0613、GPT-4-32K、GPT-4-32K-0314、GPT-4-32K-0613、GPT-3.5-TURBO、GPT-3.5-TURBO-0301、GPT-3.5-TURBO-16K
-- Privacy first, all data stored locally in the browser
+- 隐私第一，浏览器本地存储的所有数据，绝对不会上传您的隐私数据
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
