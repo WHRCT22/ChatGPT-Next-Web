@@ -1,17 +1,17 @@
 <div align="center">
 
-<h1 align="center">ChatGPT Web X</h1>
+<h1 align="center">ChatGPT Web X 2.0</h1>
 
 
-One-Click to get free access to ChatGPT GPT 3.5 to GPT 4+ models!
+一键免费访问 ChatGPT GPT 3.5 至 GPT 4+ 模型！
 
 
 
 
-[Web App](https://chatgpt-web-x.vercel.app/)
+[Web App](https://chatgpt.cloudwl.com/)
 
 
-[web-url]: https://chatgpt-web-x.vercel.app/
+[web-url]: [(https://chatgpt.cloudwl.com/)]
 
 </div>
 
