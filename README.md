@@ -27,7 +27,7 @@
 - V2.0 版新功能：使用提示模板（mask）创建、共享和调试聊天工具
 - 非常棒的提示语包含了[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 和 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - 自动压缩聊天历史记录，以支持长对话，同时还能保存令牌，本库（只有本库）自动嵌入了接口，使用pandora API接口
-- I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어
+- 国际化的语言支持: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어
 
 ## Models
 
