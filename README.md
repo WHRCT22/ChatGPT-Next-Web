@@ -15,9 +15,9 @@
 
 </div>
 
-## Features
+## 特征
 
-- **Deploy for free with one-click** on Vercel in under 1 minute
+- **一键免费部署** 不到 1 分钟即可在 Vercel 上部署你自己的网站
 - Extremely customizable settings for all Models
 - Has over 11 different models t choose from: gpt-4, gpt-4-0314,gpt-4-0613, gpt-4-32k, gpt-4-32k-0314, gpt-4-32k-0613, gpt-3.5-turbo, gpt-3.5-turbo-0301, gpt-3.5-turbo-16k
 - Privacy first, all data stored locally in the browser
