@@ -29,7 +29,7 @@
 - 自动压缩聊天历史记录，以支持长对话，同时还能保存令牌，本库（只有本库）自动嵌入了接口，使用pandora API接口
 - 国际化的语言支持: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어
 
-## Models
+## 模型列表
 
 - [x] gpt-4
 - [x] gpt-4-0314
