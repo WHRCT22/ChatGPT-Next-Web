@@ -11,7 +11,7 @@
 [Web App](https://chatgpt.cloudwl.com/)
 
 
-[web-url]: [(https://chatgpt.cloudwl.com/)]
+[web-url]: [https://chatgpt.cloudwl.com/]
 
 </div>
 
