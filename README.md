@@ -17,7 +17,11 @@
 
 ## 特征
 
-- **一键免费部署** 不到 1 分钟即可在 Vercel 上部署你自己的网站
+- **一键免费部署**
+<div align="center">
+  <h1 align="center">不到 1 分钟即可在 Vercel 上部署你自己的网站</h1>
+  </div>
+
 - 1.Fork此库至你的Github仓库中
 - 2.登陆Vercel后从你刚刚复制的仓库中导入即可
 ## Other
