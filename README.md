@@ -33,7 +33,7 @@
 - 极快的首屏加载速度（~100kb），支持流式响应
 - 预制角色功能（面具），方便地创建、分享和调试你的个性化对话
 - 非常棒的提示语包含了[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 和 [英文](https://github.com/f/awesome-chatgpt-prompts)
-- 自动压缩聊天历史记录，以支持长对话，同时还能保存令牌，本库（只有WHRCT22/ChatGPT-NextWeb）自动嵌入了接口，使用pandora API接口
+- 自动压缩聊天历史记录，以支持长对话，同时还能保存令牌，本库（只有WHRCT22/ChatGPT-Next-Web）自动嵌入了接口，使用pandora API接口
 - 国际化的语言支持: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
 - 拥有自己的域名？好上加好，绑定后即可在任何地方无障碍快速访问
