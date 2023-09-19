@@ -23,7 +23,7 @@
 - 隐私第一，浏览器本地存储的所有数据，绝对不会上传您的隐私数据
 - 支持 Markdown： LaTex、图片、代码高亮等。
 - 响应式设计、暗模式和 PWA
-- Fast first screen loading speed (~100kb), support streaming response
+- 首屏加载速度快（约 100kb），支持流式响应
 - New in v2: create, share and debug your chat tools with prompt templates (mask)
 - Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - Automatically compresses chat history to support long conversations while also saving your tokens
