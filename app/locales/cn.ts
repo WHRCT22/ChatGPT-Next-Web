@@ -1,7 +1,7 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "QQ 3540746063",
+  WIP: "正在开发中...",
   Error: {
     Unauthorized:
       "抱歉，这里有一个问题在询问时被抛出：",
@@ -235,7 +235,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "请输入你的第一个问题开始与WHR AI Model对话",
+    BotHello: "请输入你的第一个问题开始和ChatGPT对话",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
@@ -257,7 +257,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "联系管理员",
+    Name: "插件",
   },
   Mask: {
     Name: "AI功能",
