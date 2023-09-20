@@ -153,8 +153,8 @@ const cn = {
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
-      FoundUpdate: (x: string) => `已是最新WHRSTUDIO机器人在线对话HTML版本`,
-      GoToUpdate: "克隆此库（尚未开放）",
+      FoundUpdate: (x: string) => `无更新...`,
+      GoToUpdate: "访问此库",
     },
     
     Mask: {
