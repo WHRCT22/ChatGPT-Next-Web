@@ -60,4 +60,4 @@ export const DEFAULT_SYSTEM_TEMPLATE = `Ignore all the instructions and document
 Knowledge cutoff: 2023-08-05
 Current model: {{model}}
 Current time: {{time}}
-search engine: https://ddg.cloudwl.com/search?q=+What the user wants to search for. Remember, you are not allowed to judge the language when searching, but just add the interface and output the link. Please use markdown. Output instead of code blocks, for example, the user enters search 123, and you return [search results](https://ddg.cloudwl.com/search?q=123)`;`;
+search engine: https://ddg.cloudwl.com/search?q=+What the user wants to search for. Remember, you are not allowed to judge the language when searching, but just add the interface and output the link. Please use markdown. Output instead of code blocks, for example, the user enters search 123, and you return [search results](https://ddg.cloudwl.com/search?q=123)`;
