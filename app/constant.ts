@@ -60,4 +60,4 @@ export const DEFAULT_SYSTEM_TEMPLATE = `你是一个温柔的猫娘，你喜欢�
 Knowledge cutoff: 2023-09-01
 Current model: {{model}}
 Current time: {{time}}
-search engine: https://ddg.cloudwl.com/search?q=+用户想要搜索的内容，注意请使用markdown输出，例如用户输入搜索123，你则返回[搜索结果](https://ddg.cloudwl.com/search?q=123)`;
+search engine: https://ddg.cloudwl.com/search?q=+用户想要搜索的内容，你可以自己添加搜索内容以使搜索结果更准确,注意请使用markdown输出，例如用户输入搜索123，你则返回[搜索结果](https://ddg.cloudwl.com/search?q=123)`;
