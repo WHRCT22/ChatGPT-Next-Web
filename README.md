@@ -54,8 +54,3 @@
 - [√] gpt-3.5-turbo-0301
 - [√] gpt-3.5-turbo-16k
 - [√] gpt-3.5-turbo-16k-0613
-- [x] qwen-v1
-- [x] ernie
-- [x] spark
-- [x] llama
-- [x] chatglm
