@@ -5,7 +5,7 @@
 
 一键免费访问 ChatGPT GPT 3.5 至 GPT 4+ 模型！
 
-
+<h3 align="center">基于Yidadaa/ChatGPT-Next-Web/的改造版，一键部署就可使用</h3>
 
 
 [Web App](https://chatgpt.cloudwl.com/)
